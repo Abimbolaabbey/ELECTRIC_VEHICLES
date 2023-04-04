@@ -24,13 +24,27 @@ The dataset used in this analysis contains information on vehicle make, model, c
 
 * The average range of two-seater vehicles is the lowest at 103.5, while full-size vehicles have the highest average range at 512.4.
 
+![](VEHICLE_CLASS_WITH_THE_LONGEST_RANGE.png)
+
+![](VEHICLE_CLASS_WITH_THE_SHORTEST_RANGE.png)
+
 * The average recharge time for electric vehicles is 9.598, while the average range on a single charge is 394.462.
+
+![](AVERAGE_RECHARGE_TIME_IN_HOURS.png)
 
 * Cardiac Lyric is the vehicle with the highest ranking in terms of recharge time and range, while the smart for two electric drive cabriolet has the lowest range in relation to recharge time.
 
+![](BEST_VEHICLE_IN_TERMS_OF_CHARGING_TIME_AND_RANGE.png)
+
+![](LEAST_VEHICLE_IN_TERMS_OF_RECHARGE_TIME_AND_RANGE.png)
+
 * There is a strong positive correlation between recharge time and range for electric vehicles, with a correlation coefficient of 0.7670.
 
+![](CORR_BETWEEN_RECHARGE_TIME_RANGE.png)
+
 * There is also a strong positive correlation between battery capacity and range for electric vehicles, with a correlation coefficient of 0.7242.
+
+![](SCATER_PLOT_FOR_BATTERY_CAPACITY_AND_RANGE.png)
 
 ### Conclusion
 
@@ -38,7 +52,7 @@ The analysis shows that there are significant differences in range and recharge 
 
 #### Tools and Technologies
 
-The analysis was performed using R programming language and SQL. The dataset was obtained from Canada open data repository
+The analysis was performed using R programming language,SQL and Excel for data cleaning. The dataset was obtained from Canada open data repository
 
 #### Future Work
 
