@@ -9,7 +9,7 @@ The dataset used in this analysis contains information on vehicle make, model, c
 
 ### Research Questions
 
-#### The analysis aimed to answer the following research questions:
+#### The analys is aimed to answer the following research questions:
 
 * What is the average range of electric vehicles by vehicle class?
 
